@@ -1,0 +1,11 @@
+button {
+    display: block;
+    margin: 10px auto;
+    height: 30px;
+    width: 200px;
+    background-color: rgb(136, 238, 136);
+}
+
+ul {
+    font-size: 15px;
+}
